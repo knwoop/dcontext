@@ -1,2 +1,2 @@
 # xcontext
-Copy context.Context without setting timeout in one
+Copy context.Context without setting timeout
