@@ -1,7 +1,12 @@
 # xcontext
 Copy context.Context without setting timeout
 
-## example
+## Set up
+```bash
+$ go install github.com/knwoop/dcontext@latest
+```
+
+## Example
 
 ```go
 package main
