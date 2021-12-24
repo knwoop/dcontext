@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-// Deadline detaches context from parent context
+// Detach detaches context from parent context
 func Detach(ctx context.Context) context.Context {
 	return dcontext{ctx}
 }
