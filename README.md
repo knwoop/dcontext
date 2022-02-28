@@ -3,7 +3,7 @@ Copy context.Context without setting timeout
 
 ## Set up
 ```bash
-$ go get -u github.com/knwoop/dcontext@latest
+$ go get -u github.com/knwoop/dcontext
 ```
 
 ## Example
