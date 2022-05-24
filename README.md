@@ -43,3 +43,6 @@ func main() {
 	fmt.Println(`ttx.Value("trace-id"):`, ttx.Value("trace-id"))
 }
 ```
+
+## Reference
+https://zenn.dev/knwoop/articles/dd93fffb48775b
